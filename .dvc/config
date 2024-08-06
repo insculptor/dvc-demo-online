@@ -1,4 +1,6 @@
 [core]
-    remote = demoremote
+    remote = dvcs3store
 ['remote "demoremote"']
     url = C:\Users\erdrr\OneDrive\Desktop\Scholastic\MLOps\CX\tmp\dvc_demo
+['remote "dvcs3store"']
+    url = s3://insculpt-s3-bucket
