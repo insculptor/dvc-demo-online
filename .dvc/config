@@ -1,0 +1,4 @@
+[core]
+    remote = demoremote
+['remote "demoremote"']
+    url = C:\Users\erdrr\OneDrive\Desktop\Scholastic\MLOps\CX\tmp\dvc_demo
